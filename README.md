@@ -2,7 +2,7 @@
 
 # Setup Project using virtualenv
 
-# create folder and change folder
+create folder and change folder
 mkdir folder_name
 cd folder_name
 
